@@ -61,9 +61,9 @@ Aquí están las herramientas y lenguajes que utilizo para dar vida a mis proyec
 ## 📊 Mis Estadísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dh_Arr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Arline" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dh-Arr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Arline" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dh_Arr&layout=compact&theme=radical" alt="Lenguajes de Arline" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dh-Arr&layout=compact&theme=radical" alt="Lenguajes de Arline" />
 </p>
 
 ---
